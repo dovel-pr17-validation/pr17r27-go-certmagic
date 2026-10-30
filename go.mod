@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/caddyserver/zerossl v0.1.6
-	github.com/klauspost/cpuid/v2 v2.4.0
+	github.com/klauspost/cpuid/v2 v2.4.1
 	github.com/libdns/libdns v1.1.1
 	github.com/mholt/acmez/v3 v3.1.7
 	github.com/miekg/dns v1.1.73
